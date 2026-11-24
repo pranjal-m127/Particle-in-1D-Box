@@ -287,6 +287,13 @@ st.divider()
 
 st.header("Understanding the Physics")
 
+with st.expander("What are bound states?"):
+    st.write("""
+    The state in which the particle moves back and fro is called a bound state.
+
+    In such types of states the energy of the particle is quantized. 
+    """)
+
 with st.expander("What is a Particle in a Box?"):
     st.write("""
     The particle in a box is a basic model in quantum mechanics.
