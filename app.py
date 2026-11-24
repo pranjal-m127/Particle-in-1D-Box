@@ -315,10 +315,9 @@ with st.expander("What does probability density show?"):
     The probability density is the square of the absolute
     value of the wavefunction.
 
-    It tells us how likely the particle is to be found at
-    different positions inside the box.
+    It tells us the probablity of finding the particle inside the box 
 
-    A larger probability density means a greater likelihood
+    A larger probability density means a greater probablity
     of finding the particle in that region.
     """)
 
